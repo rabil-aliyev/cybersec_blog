@@ -1,6 +1,0 @@
----
-description: Tezliklə ...
----
-
-# Vim editoru
-
